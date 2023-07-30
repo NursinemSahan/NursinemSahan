@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NursinemSahan
-- 👀 I’m interested in GIS
-- 🌱 I’m currently learning GEE
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Nodejs, Expressjs and MongoDb
 - 📫 How to reach me https://www.linkedin.com/in/nursinemsahan/
 
 <!---
