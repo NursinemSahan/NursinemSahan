@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NursinemSahan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Nodejs, Expressjs and MongoDb
+- 🌱 I’m currently learning Nodejs and MongoDb
 - 📫 How to reach me https://www.linkedin.com/in/nursinemsahan/
 
 <!---
